@@ -5,8 +5,8 @@ import (
 )
 
 var RootCommand = &cobra.Command{
-	Use:   "base",
-	Short: "Example base command",
+	Use:   "extension",
+	Short: "Example extended command",
 }
 
 func Execute() {

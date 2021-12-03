@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kalantar/testclient/base/cmd"
+import "github.com/kalantar/testcli/base/cmd"
 
 func main() {
 	cmd.Execute()
